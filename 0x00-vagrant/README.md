@@ -1,1 +1,2 @@
-wa daw hollo
+*Emphasize* _emphasize_
+**Strong** __Strong__
